@@ -1,0 +1,65 @@
+#+title: Characters
+#+options: num:nil
+#+startup: inlineimages
+
+* Hallashim
+** Faelinoril Galathil
+
+#+attr_org: :width 500
+#+attr_html: :width 500px; :style float:right;
+#+attr_latex: :width 500px
+[[./img/Faelinoril_Galathil.png]]
+
+- Age ::
+    Elder (but not old)
+- Race ::
+    Hallashim
+- Occupation ::
+    Head Master of the Hallashim Archiver's Guild
+- Home ::
+    Laurië Citime, in the city of Tanquende
+- Eneagram Scale ::
+    Investigator
+#+html: <br style="clear:both;" />
+** Elarialaith Lóteiirimaeth
+
+#+attr_org: :width 500
+#+attr_html: :width 500px; :style float:right;
+#+attr_latex: :width 500px
+[[./img/Elarialaith_Lóteiirimaeth.png]]
+
+- Age :: Young Adult
+- Race :: Hallashim
+- Occupation :: Journeyshim in the Hallashim Archiver's Guild
+- Home :: Laurië Citime, in the city of Tanquende
+- Eneagram Scale :: Reformer
+#+html: <br style="clear:both;" />
+
+* Palaman
+** Tadhg MacMurchadha
+
+#+attr_org: :width 500
+#+attr_html: :width 500px; :style float:right;
+#+attr_latex: :width 500px
+[[./img/Tadhg_MacMurchadha.png]]
+
+- Age :: Young Adult
+- Race :: Palaman
+- Occupation :: Scholar in Ponte Cidade
+- Home :: Ponte Cidade
+- Eneagram Scale :: Investigator
+#+html: <br style="clear:both;" />
+* Other
+** Ryu Angus
+
+#+attr_org: :width 500
+#+attr_html: :width 500px; :style float:right;
+#+attr_latex: :width 500px
+[[./img/Ryu_Angus.png]]
+
+- Age :: Young Adult
+- Race :: Palaman
+- Occupation :: Undetermined
+- Home :: Ponet Cidade??
+- Eneagram Scale :: The Challenger
+#+html: <br style="clear:both;" />

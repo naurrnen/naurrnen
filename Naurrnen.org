@@ -11,12 +11,30 @@ Given the distance between solar systems, it became expedient to send space stat
 *** Naurrnen (Syscon 37221)
 Syscon 37221 was one such planet. When the trade route dried up, the populace was relocated and the planet abandoned. Or so it was thought. Records indicate that there were numerous pods abandoned to the AI to raise without any monitoring at all. It looks like a bureaucratic cover-up in order to avoid costly relocation of equipment. When the coverup was discovered, a recovery mission was sent in order to re-assume the hatched embryos into society, and possibly recover any equipment that might be salvageable. The system in which the planet was part of was no more. Swallowed up by a neighboring worm hole for sure, it would seem. If the planet still existed, it was unreachable, now.
 
+** Fantasy
+Having started this world with many potential "sci-fi" underpinnings, it is also essential to fill this worls with fantasy. Let the imagination run without the confines of understood reality. With enough mystery, inhabitants of this world will tell their stories and their own unique interpretation of the world around them. They must have the freedom to do this, for this is what makes a make-believe world welcoming.
+
 ** Ideas
 1. Active satellites still orbiting and still self correcting orbital path, that interact with the planet, and "magical artifacts" i.e. staff that calls fire (lasers?) or nanite robots that repair tissue
 2. EMP devices that are interpreted to be "anti-magical"
 3. solar energy as a possible source of renewable energy
 4. terraformed planet
 * World
+** History
+*** Eras
+**** First Era .... -  1999
+***** Pre-recorded History to the first histories
+This is Naurrnen's pre-history. It is often referred to in reference to histories and oral traditions that date earlier than when the first recorded era began. Some time, during this era, was the time of the Amearans, or "the ancient ones". A civilization that is believed to have been far more advanced technologically and magically than any civilization after it. So much so, that many believe they were gods or sent from the gods. No one knows what became of them. Many believe they were swooped up into the seventh heaven, upon completing their bidding for the gods. They left what remains of their ancient civilization to teach the people of Naurrnen wisdom and the nature of the gods. But they wrote in a script not familiar to anyone.
+****** In Actuallity
+The Amearans never existed. Naurrnen is an abandoned terraform project lost to a wormhole. There are great adavanced structures and technologies intended for cultivating a growing planet full of humanoids. This knowledge is lost to its inhabitants, so the Amearan myth is history's best explanation for the technical marvels.
+**** Second Era 2000 - 4000
+***** Eleven Empire(s)
+The High Elves of Átaremma united the various tribes into nation states, and then into mighty empires. They were skilled linguists and managed to discover enough of the ancient Amearan language to form a crude understanding of some simple terms that may or may not be accurate translations. They did the best they could without a Philosopher's stone, and advanced Naurrnen's understanding of the language further than any other culture in history.
+The Elves of Átaremma made some great archeological discoveries of Amearan technology and lore, but wanted to keep this knowledge from other races on Naurrnen, whom they had enslaved for most of this period.
+**** Third Era 4000 - 5000+
+***** Empire of man
+The beginning of the reign of man. Men superseded elves, and in doing so, try to build a more pluralistic society, incorporating all races, but unifying them under man's religion.
+
 ** Races
 *** Primary Races
 The races within Naurrnen are fairly equal. Although Elves are known for their skills in magic, music, and crafting instruments and enchanted items, that does not mean one will find elves doing hard labor, exercising what strength they have. Orcs are generally favored for that sort of labor, as they tend to be more physically suited for the task. But not every Orc is physically built for this task, as not every Elf is well suited to the arts. Their are Orcs who take an interest in magic or music, as well. They are generally not as well suited as the Elves, but that is not to say, their are not Orcs that have better ears, or eyes than many Elves, or better minds for magic. These exceptions are generally blamed on half-breeds. Half-breeding has become so common in the age of man, no one really knows for sure who is a half-breed, or if one, who might think themselves as a pure-bred, is really a fourth or fifth generation mixed breed. What separates the races more than anything are their cultural identities.
@@ -133,7 +151,7 @@ Saruleum is a soft metal and is an extremely inefficient energy source for magic
 A hard and heavy metal. Can be used as armor but is too heavy to make full suits of armor. Usually a plate of the metal will be used in conjunction with steel. It is most commonly used in constructs for production that need sturdy materials in order to function.
 
 *** Steel
-An allow of carbon and iron. Treasured as a hard, yet portable metal, ideally used for weapons and armor.
+An alloy of carbon and iron. Treasured as a hard, yet portable metal, ideally used for weapons and armor.
 
 ** Trade
 *** Famous Trade Routes
